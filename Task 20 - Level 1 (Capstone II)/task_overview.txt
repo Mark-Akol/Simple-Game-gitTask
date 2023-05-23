@@ -1,0 +1,8 @@
+Task Overview - Statistics relating to all tasks in task_manager.py
+
+Total Tasks:		5
+Completed Tasks:	1
+Incomplete Tasks:	2
+Overdue Tasks:		0
+Portion Incomplete:	40%
+Portion Overdue:	0%
